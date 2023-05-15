@@ -1,0 +1,23 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "img": "images/gambler1.webp",
+            "name": "Archie Karas",
+            "desc": "Karas is a Greek-American gambler who is famous for his high-stakes gambling exploits in Las Vegas. He is known for turning $50 into $40 million through a combination of poker, craps, and baccarat."
+        },
+        {
+            "id": 2,
+            "img": "images/gambler2.webp",
+            "name": "Phil Ivey",
+            "desc": "Lorem Ipsum"
+        },
+        {
+            "id": 3,
+            "img": "images/gambler3.webp",
+            "name": "Zeljko Ranogajec",
+            "desc": "Lorem Ipsum"
+        }
+
+    ]
+}
